@@ -2,4 +2,4 @@
 
 Dit is de repo voor de site over Gerrit
 
-Wil je deze website zien, klik dan [hier](https://laurenskroon.github.io/git-basics-laurens/){:target="_blank"}.
+Wil je deze website zien, klik dan [hier](https://laurenskroon.github.io/git-basics-laurens/).
