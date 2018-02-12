@@ -13,6 +13,11 @@ body{
 	overflow: hidden;
 }
 
+#octo {
+	top:200px;
+	left:730px;
+}
+
 #gerrit	 {
 	top: 360px;
 	left: 20px;
